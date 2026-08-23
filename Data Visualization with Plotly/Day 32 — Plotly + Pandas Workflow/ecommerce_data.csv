@@ -1,0 +1,13 @@
+order_id,product,category,region,sales,profit
+1,Laptop,Electronics,Dhaka,800,120
+2,Phone,Electronics,Chattogram,500,80
+3,Tablet,Electronics,Dhaka,300,50
+4,Shoes,Fashion,Sylhet,200,40
+5,Shirt,Fashion,Dhaka,150,30
+6,Watch,Fashion,Rajshahi,400,70
+7,Laptop,Electronics,Sylhet,900,150
+8,Phone,Electronics,Rajshahi,600,90
+9,Shoes,Fashion,Dhaka,250,45
+10,Tablet,Electronics,Chattogram,350,60
+11,Shirt,Fashion,Sylhet,180,25
+12,Watch,Fashion,Dhaka,500,100

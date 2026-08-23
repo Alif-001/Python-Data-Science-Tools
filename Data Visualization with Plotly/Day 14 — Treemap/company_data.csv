@@ -1,0 +1,11 @@
+company,department,team,revenue
+TechCorp,Engineering,Backend,120
+TechCorp,Engineering,Frontend,100
+TechCorp,Engineering,AI,180
+TechCorp,Sales,Domestic,150
+TechCorp,Sales,International,200
+TechCorp,HR,Recruitment,80
+BizSoft,Engineering,Backend,90
+BizSoft,Engineering,Frontend,110
+BizSoft,Sales,Domestic,130
+BizSoft,HR,Operations,70

@@ -1,0 +1,11 @@
+place,lat,lon,users,activity
+Dhaka,23.8103,90.4125,5000,high
+Chittagong,22.3569,91.7832,2000,medium
+Sylhet,24.8949,91.8687,1500,medium
+Rajshahi,24.3745,88.6042,1200,low
+Khulna,22.8456,89.5403,1800,medium
+Barisal,22.7010,90.3535,900,low
+London,51.5074,-0.1278,3000,high
+New York,40.7128,-74.0060,6000,high
+Tokyo,35.6762,139.6503,5500,high
+Delhi,28.7041,77.1025,7000,high

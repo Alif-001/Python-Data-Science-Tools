@@ -1,0 +1,13 @@
+order_id,region,category,customer,sales,profit
+1,Dhaka,Electronics,Alice,800,120
+2,Sylhet,Fashion,Bob,200,40
+3,Chattogram,Electronics,Charlie,500,80
+4,Dhaka,Fashion,David,150,30
+5,Rajshahi,Electronics,Eva,600,90
+6,Sylhet,Fashion,Frank,180,25
+7,Dhaka,Electronics,George,900,150
+8,Chattogram,Fashion,Helen,250,45
+9,Rajshahi,Fashion,Ian,400,70
+10,Dhaka,Electronics,John,700,110
+11,Sylhet,Electronics,Kate,350,60
+12,Rajshahi,Fashion,Liam,500,100

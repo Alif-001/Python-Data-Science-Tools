@@ -1,0 +1,11 @@
+city,country,lat,lon,population,gdp
+Dhaka,Bangladesh,23.8103,90.4125,22000,420
+Chittagong,Bangladesh,22.3569,91.7832,8000,120
+Delhi,India,28.7041,77.1025,32000,2800
+Mumbai,India,19.0760,72.8777,25000,3000
+Karachi,Pakistan,24.8607,67.0011,15000,380
+London,UK,51.5074,-0.1278,9000,3300
+New York,USA,40.7128,-74.0060,18000,27000
+Toronto,Canada,43.6510,-79.3470,7000,2200
+Berlin,Germany,52.5200,13.4050,6000,4200
+Paris,France,48.8566,2.3522,6500,3100

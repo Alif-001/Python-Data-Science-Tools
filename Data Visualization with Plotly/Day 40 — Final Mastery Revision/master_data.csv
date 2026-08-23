@@ -1,0 +1,11 @@
+date,region,product,sales,profit,customers,ad_spend
+2024-01-01,Dhaka,Phone,500,80,50,20
+2024-01-02,Sylhet,Laptop,800,120,60,30
+2024-01-03,Chattogram,Tablet,300,40,30,10
+2024-01-04,Dhaka,Phone,700,110,70,25
+2024-01-05,Sylhet,Laptop,900,150,80,35
+2024-01-06,Rajshahi,Tablet,400,60,40,15
+2024-01-07,Dhaka,Laptop,1000,200,90,40
+2024-01-08,Sylhet,Phone,600,90,55,22
+2024-01-09,Rajshahi,Laptop,1100,220,95,45
+2024-01-10,Dhaka,Tablet,500,70,50,18

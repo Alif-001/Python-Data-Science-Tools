@@ -1,0 +1,11 @@
+study_hours,attendance,marks,gender,passed
+1,60,35,M,No
+2,65,40,F,No
+3,70,45,M,No
+4,75,55,F,Yes
+5,80,60,M,Yes
+6,85,70,F,Yes
+7,90,80,M,Yes
+8,95,88,F,Yes
+9,98,92,M,Yes
+10,100,95,F,Yes
