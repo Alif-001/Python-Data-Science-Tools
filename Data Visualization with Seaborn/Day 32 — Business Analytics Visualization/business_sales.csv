@@ -1,0 +1,13 @@
+date,region,customer_type,product,sales,profit,orders
+2024-01-01,North,New,A,120,30,2
+2024-01-02,North,Returning,B,150,40,3
+2024-01-03,South,New,A,200,60,4
+2024-01-04,South,Returning,C,180,50,3
+2024-01-05,East,New,B,90,20,2
+2024-01-06,East,Returning,C,110,25,1
+2024-01-07,West,New,A,160,45,3
+2024-01-08,West,Returning,B,170,55,4
+2024-01-09,North,New,C,140,35,2
+2024-01-10,South,Returning,B,190,70,5
+2024-01-11,East,New,A,130,28,3
+2024-01-12,West,Returning,C,210,80,6
